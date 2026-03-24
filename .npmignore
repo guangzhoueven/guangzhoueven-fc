@@ -13,3 +13,7 @@ data/cores/*
 minify/
 .npmignore
 .gitignore
+README.md
+CHANGES.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
